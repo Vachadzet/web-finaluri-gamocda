@@ -173,8 +173,9 @@ body {
     object-fit: cover;
 }
 
-.movie-info {
-    padding: 15px;
+.movie-info div{
+    height: 170px;
+    
 }
 
 /* BUTTONS */
