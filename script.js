@@ -185,4 +185,4 @@ if (requestForm) {
 if (searchForm) {
     searchForm.addEventListener("submit", handleSearch);
 }
-document.addEventListener("DOMContentLoaded", loadmovies);
+document.addEventListener("DOMContentLoaded", loadMovies);
